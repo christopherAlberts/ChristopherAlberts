@@ -7,7 +7,7 @@ I'm a experienced Software Developer with 4+ years of professional experience wo
 Systems Engineering. Good knowledge of REST API’s and web services implementation concepts. Very familiar with test driven development and
 CI/CD practices. Well versed in Git and the principals of version control. Fluent in English and Afrikaans. Currently, in my final year of studying for
 a Bachelor of Computer Science at the University of London and holding another Bachelor’s degree focused on Psychology and Political Science
-from Pearson Institute of higher education. Able to work 100% remote. Dual citizenship, Dutch/South Africa.
+from Pearson Institute of higher education. Able to work 100% remote. **Dual citizenship, Dutch/South African**.
 
 ------------------
 
