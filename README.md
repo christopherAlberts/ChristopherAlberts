@@ -40,23 +40,12 @@ from Pearson Institute of higher education. Able to work 100% remote. **Dual cit
 <p align="left"> <a href="https://www.github.com/christopherAlberts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopher-alberts-430715a4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
----
+###My GitHub Stats
 
-## **📊 Stats**
+<a href="http://www.github.com/christopherAlberts"><img src="https://github-readme-stats.vercel.app/api?username=christopherAlberts&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="christopherAlberts's GitHub stats" /></a>
 
-<div align="center" style="text-align:center">
-    <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
-            alt="Josee9988's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
-            alt="Josee9988's Github commit streak">
-    </a>
-    <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Josee9988's wakatime last year stats">
-    </a>
-</div>
+<a href="http://www.github.com/christopherAlberts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherAlberts&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
+<a href="http://www.github.com/christopherAlberts"><img src="https://activity-graph.herokuapp.com/graph?username=christopherAlberts&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/christopherAlberts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherAlberts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
