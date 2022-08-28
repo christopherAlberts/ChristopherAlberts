@@ -13,7 +13,7 @@ from Pearson Institute of higher education. Able to work 100% remote. Dual citiz
 
 ------------------
 
-* 🌍  I'm based in Remote
+* 🌍  Remote
 * 🖥️  See my portfolio at [https://christopher-alberts-portfolio.web.app/](http://christopher-alberts-portfolio.web.app/)
 * ✉️  You can contact me at [christopher.alberts0@gmail.com](mailto:christopher.alberts0@gmail.com)
 
