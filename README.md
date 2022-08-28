@@ -1,7 +1,9 @@
 Hi 👋 My name is Christopher Paul Alberts
 =========================================
 
-Software Developer
+## Software Developer
+
+------------------
 
 I'm a experienced Software Developer with 4+ years of professional experience working with Python, C++, JavaScript, HTML, CSS, ABAP, SQL, MYSQL and
 Systems Engineering. Good knowledge of REST API’s and web services implementation concepts. Very familiar with test driven development and
