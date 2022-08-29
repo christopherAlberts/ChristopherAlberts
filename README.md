@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋%20My%20name%20is%20Christopher!&height=200&&width=400section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋%20I'm%20Christopher!&height=200&&width=400section=header"/>
 </p>
 
+Hi 👋 My name is Christopher Paul Alberts!
 =========================================
 
 ## Software Developer
