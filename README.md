@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello World 👋!&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HelloWorld👋!&height=200&section=header"/>
 </p>
 
 Hi 👋 My name is Christopher Paul Alberts!
