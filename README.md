@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋%20I'm%20Christopher!&height=200&&width=400section=header"/>
 </p>
 
-Hi 👋 My name is Christopher Paul Alberts!
+When I was younger I always wanted to become a master Lego build. But I become something even better. **A Software Developer!** 
 =========================================
-
-## Software Developer
 
 I'm a experienced Software Developer with 4+ years of professional experience working with Python, C++, JavaScript, HTML, CSS, ABAP, SQL, MYSQL and
 Systems Engineering. Good knowledge of REST API’s and web services implementation concepts. Very familiar with test driven development and
