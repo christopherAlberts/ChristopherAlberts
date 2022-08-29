@@ -41,8 +41,11 @@ from Pearson Institute of higher education. Able to work 100% remote. **Dual cit
 
 <p align="left"> <a href="https://www.github.com/christopherAlberts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopher-alberts-430715a4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christopherAlberts&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherAlberts&theme=noctis_minimus&layout=compact" />
+</a>
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
