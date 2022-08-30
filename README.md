@@ -11,9 +11,11 @@ CI/CD practices. Well versed in Git and the principals of version control. Fluen
 a Bachelor of Computer Science at the University of London and holding another Bachelor’s degree focused on Psychology and Political Science
 from Pearson Institute of higher education. Able to work 100% remote. **Dual citizenship, Dutch/South African**.
 
-
+Check Out My Personal Website Portfolio!
 =========================================
+
 <a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf" target="_blank" download="Christopher_Alberts_Resume.pdf" > <strong><i>Download My Resume Here!</i></strong></a> 
+
 ------------------
 
 * 🖥️  See my portfolio at [https://christopher-alberts-portfolio.web.app/](http://christopher-alberts-portfolio.web.app/)
