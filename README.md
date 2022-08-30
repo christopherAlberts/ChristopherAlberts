@@ -13,7 +13,7 @@ from Pearson Institute of higher education. Able to work 100% remote. **Dual cit
 
 
 =========================================
-<a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf"> <strong><i>Download My Resume Here!</i></strong></a> 
+<a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf" target="_blank" download="Christopher_Alberts_Resume.pdf" > <strong><i>Download My Resume Here!</i></strong></a> 
 ------------------
 
 * 🖥️  See my portfolio at [https://christopher-alberts-portfolio.web.app/](http://christopher-alberts-portfolio.web.app/)
