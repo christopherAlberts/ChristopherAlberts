@@ -15,11 +15,11 @@ Check Out My Personal Website Portfolio!
 =========================================
 <a href="http://christopher-alberts-portfolio.web.app/" target="_blank" rel="noreferrer"><img src="https://christopher-alberts-portfolio.web.app/assets/images/webphoto.png"/></a> 
 
-<a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf" target="_blank" download="Christopher_Alberts_Resume.pdf" > <strong><i>Download My Resume Here!</i></strong></a> 
+<a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf" target="_blank" download="Christopher_Alberts_Resume.pdf" > <strong><i>**Download My Resume Here!**</i></strong></a> 
 
 ------------------
 
-* 🖥️  See my portfolio at [https://christopher-alberts-portfolio.web.app/](http://christopher-alberts-portfolio.web.app/)
+
 * ✉️  You can contact me at [christopher.alberts0@gmail.com](mailto:christopher.alberts0@gmail.com)
 * 🌍  Remote
 
