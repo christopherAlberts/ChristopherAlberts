@@ -5,11 +5,9 @@
 
 Coding like poetry should be short and concise... 
 =========================================
-I'm a experienced Software Developer with 4+ years of professional experience working with Python, C++, JavaScript, HTML, CSS, ABAP, SQL, MYSQL and
+I'm a experienced Software Developer with 5+ years of professional experience working with Python, C++, JavaScript, HTML, CSS, ABAP, SQL, MYSQL and
 Systems Engineering. Good knowledge of REST API’s and web services implementation concepts. Very familiar with test driven development and
-CI/CD practices. Well versed in Git and the principals of version control. Fluent in English and Afrikaans. Currently, in my final year of studying for
-a Bachelor of Computer Science at the University of London and holding another Bachelor’s degree focused on Psychology and Political Science
-from Pearson Institute of higher education. Able to work 100% remote. **Dual citizenship, Dutch/South African**.
+CI/CD practices. Well versed in Git and the principals of version control. Fluent in English and Afrikaans. I hold a Bachelor of Science in Computer Science with a Specialization in Machine Learning and Artificial Intelligence from the Univirsity of London. I also Graduated with First Class Honours. Additionaly I hold another Bachelor’s degree focused on Psychology and Political Science, from Pearson Institute of higher education. I'm Able to work 100% remote. **Dual citizenship, Dutch/South African**.
 
 Check Out My Personal Website Portfolio!
 =========================================
