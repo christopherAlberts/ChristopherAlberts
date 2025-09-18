@@ -16,7 +16,7 @@ Check Out My Personal Website Portfolio!
 Check Out Some of My Projects!
 =========================================
 
-<a href="http://christopher-alberts-portfolio.web.app/](https://reel-minder.netlify.app/" target="_blank" rel="noreferrer">Reel Minder - Never forget a movie recommendation again!</a> 
+<a href="https://reel-minder.netlify.app/" target="_blank" rel="noreferrer">Reel Minder - Never forget a movie recommendation again!</a> 
 
 <a href="https://christopher-alberts-portfolio.web.app/assets/Christopher_Alberts_Resume.pdf" target="_blank" download="Christopher_Alberts_Resume.pdf" > <strong><i><h1>Download My Resume Here!</h1></i></strong></a> 
 
